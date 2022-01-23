@@ -26,9 +26,9 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
-    ]
+       
+
+
 
     # Help Message
     HELP = """
@@ -45,13 +45,13 @@ Just send me the media and you will get the link!
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to upload files to gofile.io by @StarkBots
+A telegram bot to upload files to gofile.io by @Shivansh766
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/GoFileBot)
+Source Code : [Click Here](😂)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @shivansh766
     """
